@@ -2,7 +2,7 @@ name: Web Portal Pipeline
 
 on:
   push:
-    branches: [master]
+    branches: [main]
 
 jobs:
   deploy:
